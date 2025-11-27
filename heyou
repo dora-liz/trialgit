@@ -1,1 +1,5 @@
-heyouu guys
+git init 
+git add hello
+git log
+git checkout master
+git commit -m "
